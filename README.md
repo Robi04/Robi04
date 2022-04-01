@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Robi04
-- 👀 I’m interested in Data-Science and Machine Learning
+- 👋 Hi, I’m Robin 
+- 👀 I’m interested in Web developpement, automatisation, Data-Science and Machine Learning
 - 🌱 I’m currently learning Python, NoSQL and Piano
 
 <!---
