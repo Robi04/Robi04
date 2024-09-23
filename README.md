@@ -43,16 +43,16 @@ As a graduated Data Science Engineer, I specialize in building machine learning 
 
 ## 📚 Education & Experience
 
-### 2021: DUT Informatique - IUT Annecy-le-Vieux, France
+### 2019-2021: DUT Informatique - IUT Annecy-le-Vieux, France
 - 2-year university diploma in Computer Science
 - Focus: Web Development, Database Management, Object-Oriented Programming, Basic Statistics
 
-### 2024: Data Engineer - Télécom Saint-Etienne/Casino, France
+### 2021-2024: Data Engineer - Télécom Saint-Etienne/Casino, France
 - Data Engineering course at Télécom Saint-Étienne (Mines-Télécom group)
 - 3 years in Casino's Supply Chain department
 - Skills: Machine/Deep Learning, Big Data, NoSQL, Software Engineering, Electronics
 
-### 2024: Data Scientist - Rubix, France
+### 2024-Now: Data Scientist - Rubix, France
 - Data-Pricing department
 - Creating and deploying models for internal process optimization and client recommendations
 - Skills: Machine/Deep Learning, Big Data, Web-Scraping, Software Engineering, Finance, Scripting
