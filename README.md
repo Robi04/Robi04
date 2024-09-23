@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Robin
 
 ## 🚀 About Me
-I'm a passionate developer and data scientist based in France, recently graduated from IMT - Télécom Saint Étienne Engineering School. My expertise lies in Computer Science 💻, Data Engineering, and AI 🧠. As a freelance Data Scientist, I specialize in building machine learning models and deploying them in web applications.
+I'm a passionate Junior Data Scientist based in France, recently graduated from IMT - Télécom Saint Étienne Engineering School. My expertise lies in Computer Science 💻, Data Engineering, and AI 🧠. 
+As a data science engineer graduated, I specialize in building machine learning models and deploying them in web applications.
 
 ## 🔍 My Interests
+- Machine/Deep Learning
+- Data Science
 - Web Development
 - Automation
-- Data Science
-- Machine Learning
 - Digital Drawing
 - Sports
 - Streetwear
@@ -16,7 +17,6 @@ I'm a passionate developer and data scientist based in France, recently graduate
 
 ### Machine Learning
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ### Data Analysis/Visualization
@@ -27,15 +27,14 @@ I'm a passionate developer and data scientist based in France, recently graduate
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
+
 ### Web Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### Statistics/Math
 - Descriptive Statistics
@@ -62,7 +61,7 @@ I'm a passionate developer and data scientist based in France, recently graduate
 In my free time, I enjoy digital drawing. You can find some of my sketches on Instagram: [@roabzz](https://www.instagram.com/roabzz)
 
 ## 📫 How to Reach Me
-[Your preferred contact method or links to social profiles]
+You can find my contact in my Web Portfolio
 
 ## 🌱 Currently Learning
 - Advancing my skills in PyTorch
