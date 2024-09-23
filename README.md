@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I'm a passionate Junior Data Scientist based in France, recently graduated from IMT - Télécom Saint Étienne Engineering School. My expertise lies in Computer Science 💻, Data Engineering, and AI 🧠. 
-As a data science engineer graduated, I specialize in building machine learning models and deploying them in web applications.
+As a graduated Data Science Engineer, I specialize in building machine learning models and deploying them in web applications.
 
 ## 🔍 My Interests
 - Machine/Deep Learning
