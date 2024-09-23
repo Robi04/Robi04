@@ -69,5 +69,3 @@ You can find my contact in my Web Portfolio
 - Learning to play the Piano 🎹
 
 ---
-
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
