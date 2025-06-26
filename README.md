@@ -25,7 +25,7 @@ As a graduated Data Science Engineer, I specialize in building machine learning 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Power BI](https://img.shields.io/badge/-Qlik%20-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 
 ### Web Development
